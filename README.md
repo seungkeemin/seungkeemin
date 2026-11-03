@@ -19,8 +19,9 @@ Rates, FX and derivatives work aimed at Sales & Trading: a daily rates/FX market
 
 ### 활동
 
-- U.FE.A 금융공학학회 44대 팀장: 셀사이드 트랙 실습과제(ELS, 이색옵션) 설계
+- U.FE.A 금융공학학회 44대 팀장
 - WorldQuant BRAIN Research Consultant
+- NH 선물 REST API Pioneer 1기 진행 중
 
 ### Links
 
