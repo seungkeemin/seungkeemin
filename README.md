@@ -2,7 +2,7 @@
 
 고려대학교 산업경영공학부 · 금융공학융합전공
 
-금리·FX·파생상품 Sales & Trading을 목표로, 시장을 매일 기록하고 상품 가격을 직접 계산해 보는 작업을 해 왔습니다.
+FICC Sales & Trading 포트폴리오입니다. 매일 시장 지표 확인 및 분석하고 상품 가격을 직접 계산해 보는 작업을 해 왔습니다.
 
 Rates, FX and derivatives work aimed at Sales & Trading: a daily rates/FX market monitor, re-pricing an issued KOSPI200 ELS with the option smile, and rates risk on IRS and KTB positions.
 
