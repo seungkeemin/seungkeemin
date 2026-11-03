@@ -6,7 +6,7 @@ FICC Sales & Trading 포트폴리오입니다. 매일 시장 지표 확인 및 �
 
 Rates, FX and derivatives work aimed at Sales & Trading: a daily rates/FX market monitor, re-pricing an issued KOSPI200 ELS with the option smile, and rates risk on IRS and KTB positions.
 
-### 무엇을 했고, 무엇을 알게 됐나
+### 주요 프로젝트
 
 | 프로젝트 | 한 일 | 핵심 결과 |
 |---|---|---|
